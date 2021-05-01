@@ -73,6 +73,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWDTOMUO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VOLT_REG_PROJECT\Design Rule Check - VOLT_REG_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
