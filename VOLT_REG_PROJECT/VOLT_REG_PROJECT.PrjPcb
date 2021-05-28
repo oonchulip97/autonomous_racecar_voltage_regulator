@@ -74,7 +74,71 @@ GenerateClassCluster=0
 DocumentUniqueId=NWDTOMUO
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-VOLT_REG_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for VOLT_REG_PROJECT\Design Rule Check - VOLT_REG_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\VOLT_REG_PCB-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\VOLT_REG_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\NC Drill\VOLT_REG_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\VOLT_REG_PCB.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -86,6 +150,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -886,28 +953,34 @@ ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=VOLT_REG_INT_LIB.IntLib
-ComponentDesignItemID7=PCAP_10uF_10%_35V
-ComponentSymbolReference7=PCAP_10uF_10%_35V
+ComponentDesignItemID7=MH_M3
+ComponentSymbolReference7=MH_M3
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=VOLT_REG_INT_LIB.IntLib
-ComponentDesignItemID8=PCAP_220uF_20%_10V
-ComponentSymbolReference8=PCAP_220uF_20%_10V
+ComponentDesignItemID8=PCAP_10uF_10%_35V
+ComponentSymbolReference8=PCAP_10uF_10%_35V
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=VOLT_REG_INT_LIB.IntLib
-ComponentDesignItemID9=RES_1kR_1%_0.25W
-ComponentSymbolReference9=RES_1kR_1%_0.25W
+ComponentDesignItemID9=PCAP_220uF_20%_10V
+ComponentSymbolReference9=PCAP_220uF_20%_10V
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=VOLT_REG_INT_LIB.IntLib
-ComponentDesignItemID10=RES_330R_5%_0.25W
-ComponentSymbolReference10=RES_330R_5%_0.25W
+ComponentDesignItemID10=RES_1kR_1%_0.25W
+ComponentSymbolReference10=RES_1kR_1%_0.25W
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=VOLT_REG_INT_LIB.IntLib
+ComponentDesignItemID11=RES_330R_5%_0.25W
+ComponentSymbolReference11=RES_330R_5%_0.25W
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -966,11 +1039,14 @@ ModelType7=PCBLIB
 ModelName7=IND_NON_STD_LCI50
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=RES_1206_SE_RMCF1206
+ModelName8=MH_M3
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=RES_1206_YAGEO_RC_1206
+ModelName9=RES_1206_SE_RMCF1206
 ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=RES_1206_YAGEO_RC_1206
+ModelUpdate10=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
